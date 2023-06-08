@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Luis-Menelick-Quevedo-Diaz/Luis-Quevedo/blob/f49346b6f20810eab476977dceaded985a0ab9d9/Blue%20Modern%20Technology%20LinkedIn%20Banner%20(1).png" width="800"/>
+  <img src="https://github.com/Luis-Menelick-Quevedo-Diaz/Luis-Quevedo/blob/a0e0533414bd839077f236e39a37b112c48bd32e/LinkedIn%20Banner.png" width="800"/>
 </div>
 
 <div id="badges" align="center">
